@@ -21,10 +21,6 @@
 # Images with their words drawn in: buttons and window art.
 take	data/texture/
 
-# Selection-package names and rewards, from the compatible client date.
-# Required by the client package-selection window.
-take	data/luafiles514/lua files/selectpackage/
-
 # Reputation group and faction names (read from 20220330).
 take	data/contentdata/repute/
 
